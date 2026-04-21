@@ -71,7 +71,10 @@ Click the **Fork** button at the top right of this page.
 
 ### Step 2 — Clone your fork
 ```bash
-git clone https://github.com/YOUR_USERNAME/open-source-starter-kit.git
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+Replace:
+- YOUR_USERNAME → your GitHub username
+- YOUR_REPO → repository name
 cd open-source-starter-kit
 ```
 
